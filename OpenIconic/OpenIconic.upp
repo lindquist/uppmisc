@@ -1,0 +1,7 @@
+description "Open Iconic is the open source sibling of Iconic, converted to Upp imagelist\377";
+
+file
+	OpenIconic.h,
+	OpenIconic.cpp,
+	OpenIconic.iml;
+
