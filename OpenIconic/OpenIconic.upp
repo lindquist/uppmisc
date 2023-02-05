@@ -3,5 +3,6 @@ description "Open Iconic is the open source sibling of Iconic, converted to Upp 
 file
 	OpenIconic.h,
 	OpenIconic.cpp,
+	OpenIconic_3x.iml,
 	OpenIconic.iml;
 
